@@ -1,0 +1,25 @@
+{
+  "name": "karbo-js-api",
+  "version": "0.7.5",
+  "description": "KJSI: Karbo Javascript Interface - RPC/API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aivve/karbo-js-api.git"
+  },
+  "keywords": [
+    "karbo",
+    "cryptocurrency",
+    "rpc",
+    "api"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aivve/karbo-js-api/issues"
+  },
+  "homepage": "https://github.com/aivve/karbo-js-api/#readme"
+}
